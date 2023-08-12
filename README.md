@@ -33,25 +33,25 @@ Make sure that you have Python installed as this project depends on the followin
 - matplotlib
 - tqdm
 
-If these are not already installed refer to step 4 and 5 in "Building and Running".
+If these are not already installed refer to step 4 in "Building and Running".
 
 ## Building and Running
 
 ### Windows
 
 1. Download the .zip file by pressing the green "Code" button and selecting "Download ZIP".
-2. Go to folder the file was downloaded to an extract all components to a directory.
-3. While in file explorer click on the bar with your directory, type cmd, and press Enter.
-4. If some of the dependencies are not already installed, put in the following lines in your command prompt:
+2. Go to folder that the file was downloaded to an extract all components to a directory.
+3. While in file explorer, click on the bar with your directory, type cmd, and press Enter.
+4. If some of the dependencies are not already installed, put in the following lines one at a time in your command prompt:
 ```
 pip install matplotlib
 pip install tqdm
 ```
-6. Run the following line in command prompt:
+5. Run the following line in command prompt:
 ```
 python -m animate.py
 ```
-7. Once completed with the application, the generated animation will be saved to this directory.
+6. Once completed, the generated animation will be saved to this directory.
 
 ### Customization
 
