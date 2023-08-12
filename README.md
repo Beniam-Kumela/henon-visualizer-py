@@ -53,6 +53,7 @@ python -m animate.py
 ```
 6. Once completed, the generated animation will be saved to this directory.
 
+If you want to view the graphing function for the animation you can run graph.py in a virtual environment or in command line.
 ### Customization
 
 If any edits want to be made to the code navigate to the animate.py file to make changes and run in a virtual environment.
